@@ -1,6 +1,6 @@
-/*1. Create a a string for the user saying: You have received this message because you have been chosen to open an important vault. Here is the secret combination:*/
-/*2. Assign three variables. Each variable contains the corresponding result of calculations. Each must equal one of the three codes in the combination.*/
-/*3.Create a dialog box displaying the vault codes and the text if using HTML and a script tag, or create a popup dialog.*/
+//1. Create a a string for the user saying: You have received this message because you have been chosen to open an important vault. Here is the secret combination:
+//2. Assign three variables. Each variable contains the corresponding result of calculations. Each must equal one of the three codes in the combination.
+//3.Create a dialog box displaying the vault codes and the text if using HTML and a script tag, or create a popup dialog.
 //4. Add valuable comments throughout the code. 
 
 
