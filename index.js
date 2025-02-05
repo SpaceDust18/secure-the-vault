@@ -15,4 +15,4 @@ const thirdNumber = 50 - 11;
 //STEP 3. CREATE DIALOG BOX WITH MESSAGE AND COMBINATION
 alert (`You have received this message because you have been chosen to open an important vault. Here is the secret combination: ${firstNumber} - ${secondNumber} - ${thirdNumber}`);
 
-//4. CHECK 
+//STEP 4. CHECK 
